@@ -1,7 +1,7 @@
 Grove 10A current sensor ACS725
 =================================  
 
-![ACS725]()  
+ 
 
 
 Introduction of sensor
