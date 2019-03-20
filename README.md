@@ -1,7 +1,7 @@
 Grove 10A current sensor ACS725
 =================================  
 
-![ACS725](https://github.com/linux-downey/Grove_touch_sensor_MPR121/blob/master/MPR121_module.png)  
+![ACS725]()  
 
 
 Introduction of sensor
